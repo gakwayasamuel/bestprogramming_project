@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1001,
+    "name": "Alice Johnson",
+    "clubIds": [101, 102],
+    "eventIds": [10001]
+  },
+  {
+    "id": 1002,
+    "name": "Bob Smith",
+    "clubIds": [101],
+    "eventIds": [10001, 10002]
+  },
+  {
+    "id": 1003,
+    "name": "Carol Davis",
+    "clubIds": [102],
+    "eventIds": [10002]
+  },
+  {
+    "id": 1004,
+    "name": "David Wilson",
+    "clubIds": [101, 102],
+    "eventIds": [10001]
+  },
+  {
+    "id": 1005,
+    "name": "Eva Brown",
+    "clubIds": [],
+    "eventIds": []
+  }
+]
