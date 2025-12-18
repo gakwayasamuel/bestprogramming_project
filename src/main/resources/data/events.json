@@ -1,0 +1,29 @@
+[
+  {
+    "id": 10001,
+    "name": "Hackathon 2024",
+    "description": "24-hour coding competition with prizes",
+    "date": "2024-11-15",
+    "time": "09:00",
+    "clubId": 101,
+    "participantIds": [1001, 1002, 1004]
+  },
+  {
+    "id": 10002,
+    "name": "Public Speaking Workshop",
+    "description": "Learn effective communication techniques",
+    "date": "2024-11-20",
+    "time": "14:00",
+    "clubId": 102,
+    "participantIds": [1002, 1003]
+  },
+  {
+    "id": 10003,
+    "name": "Music Concert",
+    "description": "Annual music concert featuring student performances",
+    "date": "2024-12-10",
+    "time": "18:00",
+    "clubId": 103,
+    "participantIds": []
+  }
+]

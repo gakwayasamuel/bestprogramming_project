@@ -1,0 +1,23 @@
+[
+  {
+    "id": 101,
+    "name": "Computer Science Club",
+    "description": "For programming and technology enthusiasts",
+    "memberIds": [1001, 1002, 1004],
+    "eventIds": [10001]
+  },
+  {
+    "id": 102,
+    "name": "Debate Society",
+    "description": "Develop public speaking and critical thinking skills",
+    "memberIds": [1001, 1003, 1004],
+    "eventIds": [10002]
+  },
+  {
+    "id": 103,
+    "name": "Music Club",
+    "description": "For music lovers to practice and perform together",
+    "memberIds": [],
+    "eventIds": [10003]
+  }
+]
